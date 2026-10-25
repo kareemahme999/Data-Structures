@@ -534,13 +534,15 @@ This project is meant for learning and experimentation. Before using it in produ
 
 ---
 
-## 👤 Author
+## 👥 Team
 
 <div align="center">
 
+<img src="assets/team.svg" alt="Team: Kareem Ahmed" width="55%"/>
+
 **Kareem Ahmed**
 
-<br/>
+</div>
 
 Made with 🔴 ⚫ and a lot of rotations
 
