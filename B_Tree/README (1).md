@@ -464,11 +464,13 @@ Deleting a key from an internal node costs one extra descent to find the predece
 
 ## 👥 Team
 
-| Name | Role |
-|---|---|
-| Your Name | Insertion and splitting |
-| Your Name | Deletion, borrowing and merging |
-| Your Name | Testing and documentation |
+<div align="center">
+
+<img src="assets/team.svg" alt="Team: Kareem Ahmed" width="55%"/>
+
+**Kareem Ahmed**
+
+</div>
 
 ---
 
